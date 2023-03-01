@@ -27,15 +27,3 @@ Follow me to see how I grow professionally and improve my English little by litt
 
 ## ⚡ Technologies and Tools
 
-![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android&color=252334){: .normal }
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin&color=252334){: .normal }
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&color=252334){: .normal }
-![VsCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudio&color=252334){: .normal }
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel&color=252334){: .normal }
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php&color=252334){: .normal }
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&color=252334){: .normal }
-![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&color=252334){: .normal }
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=252334){: .normal }
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&color=252334){: .normal }
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&color=252334){: .normal }
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&color=252334){: .normal }
