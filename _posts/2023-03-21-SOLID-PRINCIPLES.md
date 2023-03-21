@@ -17,7 +17,7 @@ The **5 SOLID principles** of software application design are:
 
 In this sense the application of SOLID principles is closely related to the understanding and use of design patterns, which will allow us to maintain **high cohesion** and therefore **low coupling** of software.
 
-# What are cohesion and coupling?
+# **What are cohesion and coupling?**
 
 These are two very relevant concepts when designing and developing software. Let's see what they are.
 
@@ -64,7 +64,7 @@ The definition that is usually given is:
 > - High-level classes should not depend on low-level classes. Both should depend on abstractions.
 > - Abstractions should not depend on details. Details should depend on abstractions.
 
-# Bibliography
+# **Bibliography**
 
 [https://devexperto.com/principios-solid/](https://devexperto.com/principios-solid/)
 
