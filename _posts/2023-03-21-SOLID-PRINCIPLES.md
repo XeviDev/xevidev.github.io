@@ -61,8 +61,8 @@ All these aspects will be specified by interfaces, and the kernel will not have 
 
 The definition that is usually given is:
 
-> A. High-level classes should not depend on low-level classes. Both should depend on abstractions.
-> B. Abstractions should not depend on details. Details should depend on abstractions.
+> - High-level classes should not depend on low-level classes. Both should depend on abstractions.
+> - Abstractions should not depend on details. Details should depend on abstractions.
 
 # Bibliography
 
